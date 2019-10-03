@@ -1,7 +1,6 @@
 
 
-# solve-Server [![Build Status](https://travis-ci.org/derekacosta/solve-server.svg?branch=master)](https://travis-ci.org/derekacosta/solve-server) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/derekacosta/solve-server/blob/master/LICENSE)
-
+# solve-server
 
 This is the back-end of the [solve App](https://github.com/derekacosta/solve). 
 
